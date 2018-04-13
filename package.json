@@ -1,0 +1,30 @@
+{
+  "name": "Verrine",
+  "description": "Instagram bulk downloader",
+  "main": "./verrine.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corramel/verrine.git"
+  },
+  "keywords": [
+    "Instagram",
+    "bulk downloader",
+    "downloader",
+    "images",
+    "videos"
+  ],
+  "author": "Corramel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Corramel/Verrine/issues"
+  },
+  "homepage": "https://github.com/meew0/Lethe#readme",
+  "dependencies": {
+  "request-promise":"latest",
+  "fs":"latest",
+  "download":"latest",
+  "mkdirp":"latest",
+  "events":"latest"
+  },
+  "version": "1.0.0"
+}
